@@ -1,3 +1,7 @@
 archivo1
+<<<<<<< HEAD
 segunda linea en master
 tercera linea en master :)
+=======
+segunda linea :)
+>>>>>>> badr_jebari_rama
